@@ -7,7 +7,7 @@ nav:
 #    link: "/researcher/"
 #  - name: "Resume"
 #    link: "resume.pdf"
- - name: "Investment Research"
+ - name: "Xin's Investment Research Project"
    link: "inv-res/index"
 
 #theme: jekyll-theme-cayman
