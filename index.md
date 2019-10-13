@@ -49,11 +49,16 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 > I never let school interfere with my education. -- Mark Twain
 
-2014-2018, Bachelor of Engineering in Computer Science. <br>
-**Founding Class** of undergrad program of [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/).
+2013-2017, Bachelor of Law & Bachelor of English Literature. <br>
+**Founding Class** of undergrad program of [University of International Business and Economics](https://www.uibe.edu.cn/).
 
-2018-2020, Master of Computing, National University of Singapore.
+---
 
+# Professional Qualifications
+
+
+2018, Bachelor of Law & Bachelor of English Literature. <br>
+**Founding Class** of undergrad program of [University of International Business and Economics](https://www.uibe.edu.cn/).
 ---
 
 # URL Link to my friends
