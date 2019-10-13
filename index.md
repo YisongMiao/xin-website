@@ -66,18 +66,29 @@ Note: Xin is still considering how much details she can tell here, please email 
 
 > How you climb a mountain is more important than reaching the top. -- Yvon Chouinard, founder of Patagonia
 
-- 2015, Price International Moot Court, Top 8 in Asia-Pacific region (out of 100+)<br>
-I was the speaker.<br>
-I co-authored the memo.
+## 2015, Price International Moot Court, Top 8 in Asia-Pacific region (out of 100+)<br>
+- I was the speaker.<br>
+- I co-authored the memo.
 
-- 2015, UIBE's Cup of Future Business Negotiation(English), First Prize.<br>
-I led a team of 5 to prepare memo and oral negotiate for a uncompliant contract of Russian Steel.
+## 2015, UIBE's Cup of Future Business Negotiation(English), First Prize.<br>
+- I led a team of 5 to prepare memo and oral negotiate for a uncompliant contract of Russian Steel.
+
+## 2016, Hong Kong University Business Experience Project.
+- I led a team of 5 to simulate a whole process of launching a start-up, we won the First-Runner-Up Prize!
+
+## 2017, Internship at [Zhong Lun Law Firm](http://www.zhonglun.com/en/)
+
 
 ---
 
-# Professional Qualifications
+# Awards and Honors & Professional Qualifications
 
 > It's the man makes the clothes, not the clothes makes the man. -- Anonymous
+
+## Awards and Honors
+
+
+## Professional Qualifications
 
 - 2018, Fund Qualification (基金从业人员资格考试)
 - CET8 (College English Test - 8 Level) (大学英语八级)
@@ -96,7 +107,7 @@ I led a team of 5 to prepare memo and oral negotiate for a uncompliant contract 
 
 - [Ms. Xiaoyu Liu] -->
 
-- [Principles by Ray Dalio](https://www.principles.com/) This book has given me a lot inspiration in my junior ages.
+- [Principles by Ray Dalio](https://www.principles.com/) This book has inspired me a lot in my junior ages.
 
 
 <body>
