@@ -66,8 +66,9 @@ Note: Xin is still considering how much details she can tell here, please email 
 
 > How you climb a mountain is more important than reaching the top. -- Yvon Chouinard, founder of Patagonia
 
-## 2015, Price International Moot Court, Top 8 in Asia-Pacific region (out of 100+)<br>
-- I was the speaker.<br>
+## 2015, Price International Moot Court
+- Top 8 in Asia-Pacific region (out of 100+)
+- I was the speaker.
 - I co-authored the memo.
 
 ## 2015, UIBE's Cup of Future Business Negotiation(English), First Prize.<br>
