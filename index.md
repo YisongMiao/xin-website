@@ -10,12 +10,12 @@ layout: default
 
 Welcome! I'm a first-year investment associate at [Prosperity Investment (盛世投资)](http://www.cgpinvestment.com). <br>
 I'm affiliated to [Genesis Ark (盛世方舟)](http://www.ssfzchina.com/). <br>
-Prior to this position, I worked for the Team of Risk Management of [Prosperity Investment](http://www.cgpinvestment.com) from 2017 to 2019.<br>
+Prior to this position, I worked for the Team of Risk Management of the same institute from 2017 to 2019.<br>
 My office is at Beijing Yintai Centre. (Chaoyang, Jian Wai Da Jie, Jianguomen Outer St.) <br><br>
 
-My long-term goal <b>for my own development</b> is standing at the intersection of tax, finance, and law, deliver the world-class in-depth investment insights and decisions.
+My long-term goal <b>for my own development</b> is standing at the intersection of law, finance, and tax, deliver the world-class in-depth investment insights and decisions.
 
-My long-term goal <b>for the whole industry</b> is to accelerate the transition of traditional industries to AI-empowered, human-centered, and environment-sustainable ones.
+My long-term goal <b>for the whole industry</b> is to accelerate the transition of traditional industries to AI-empowered, human-centered, and environment-sustainable ones through the wisdom of my investment.
 
 To achieve such two <b>long-term goals</b>, I not only conduct high-quality investments introduced below, but also keep doing investment research striving to find the characteristics of successful investments and their association to other real-world factors.
 
@@ -77,7 +77,7 @@ Note: Xin is still considering how much details she can tell here, please email 
 - I led a team of 5 to simulate a whole process of launching a start-up, we won the First-Runner-Up Prize!
 
 ## 2017, Internship at [Zhong Lun Law Firm](http://www.zhonglun.com/en/)
-
+- I worked with the Team of Capital Market, my responsibilities include law research, due diligence, contract translation and useful news extraction for capital market.
 
 ---
 
@@ -86,10 +86,11 @@ Note: Xin is still considering how much details she can tell here, please email 
 > It's the man makes the clothes, not the clothes makes the man. -- Anonymous
 
 ## Awards and Honors
-
+- 2016, National Endevor scholarship (3%).
+- 2017, First-class scholarship for overall performance, [UIBE](https://www.uibe.edu.cn). (5%)
+- 2017, Outstanding Graduate, [UIBE](https://www.uibe.edu.cn). (5%)
 
 ## Professional Qualifications
-
 - 2018, Fund Qualification (基金从业人员资格考试)
 - CET8 (College English Test - 8 Level) (大学英语八级)
 
