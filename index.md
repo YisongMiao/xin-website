@@ -8,8 +8,9 @@ layout: default
 
 # About
 
-Welcome! I'm an investment associate at [Prosperity Investment (盛世投资)](http://www.cgpinvestment.com). <br>
+Welcome! I'm a first-year investment associate at [Prosperity Investment (盛世投资)](http://www.cgpinvestment.com). <br>
 I'm affiliated to [Genesis Ark (盛世方舟)](http://www.ssfzchina.com/). <br>
+Prior to this position, I worked for the Team of Risk Management at [Prosperity Investment (盛世投资)](http://www.cgpinvestment.com) from 2017 to 2019.
 My office is at Beijing Yintai Centre. (Chaoyang, Jian Wai Da Jie, Jianguomen Outer St.) <br><br>
 
 My long-term goal <b>for my own development</b> is standing at the intersection of tax, finance, and law, deliver the world-class in-depth investment insights and decisions.
