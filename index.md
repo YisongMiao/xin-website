@@ -17,7 +17,7 @@ My long-term goal <b>for my own development</b> is standing at the intersection 
 
 My long-term goal <b>for the whole industry</b> is to accelerate the transition of traditional industries to AI-empowered, human-centered, and environment-sustainable ones through the wisdom of my investment.
 
-To achieve such two <b>long-term goals</b>, I not only make high-quality investments as introduced below, but also conduct novel investment research, striving to find the characteristics of successful investments and their association to other real-world factors.
+To achieve such two <b>long-term goals</b>, I not only make high-quality investments as introduced below, but also conduct novel [investment research](inv-res/index), striving to find the characteristics of successful investments and their association to other real-world factors.
 
 <span style="color:red">Please drop me a Business Proposal via [email](wangxin@cgpinvestment.com) if you are interested to be funded by us, thanks!</span>
 
@@ -44,13 +44,13 @@ Note: Xin is still considering how much details she can tell here, please email 
 
 - Coming soon...
 
----
+<!-- ---
 
 # My Blog Posts for Investment Research
 
 > All modles are wrong, but some are useful. -- George Box, Computer Scientist
 
-- Coming soon...
+- Coming soon... -->
 
 ---
 
