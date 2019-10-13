@@ -58,7 +58,7 @@ Note: Xin is still considering how much details she can tell here, please email 
 
 > I never let school interfere with my education. -- Mark Twain
 
-- 2013-2017, Bachelor of Law & Bachelor of English Literature at [University of International Business and Economics](https://www.uibe.edu.cn/).
+- 2013-2017, Bachelor of Law & Bachelor of English Literature at [University of International Business and Economics](http://english.uibe.edu.cn/).
 
 ---
 
@@ -87,8 +87,8 @@ Note: Xin is still considering how much details she can tell here, please email 
 
 ## Awards and Honors
 - 2016, National Endevor scholarship (3%).
-- 2017, First-class scholarship for overall performance, [UIBE](https://www.uibe.edu.cn). (5%)
-- 2017, Outstanding Graduate, [UIBE](https://www.uibe.edu.cn). (5%)
+- 2017, First-class scholarship for overall performance, [UIBE](http://english.uibe.edu.cn/). (5%)
+- 2017, Outstanding Graduate, [UIBE](http://english.uibe.edu.cn/). (5%)
 
 ## Professional Qualifications
 - 2018, Fund Qualification (基金从业人员资格考试)
@@ -102,7 +102,8 @@ Note: Xin is still considering how much details she can tell here, please email 
 
 - [Mr. Yisong Miao](https://yisong.me) is not only my boyfriend, but also my best friend. He is now a master student with [National University of Singapore](http://www.nus.edu.sg). His research interest falls at recommender systems and natural language processing. He currently has two ongoing research projects, one is conversational recommendation, another is computational lexical and discourse semantics. We are in love since August 2015, the goal of our relationship is to create a loving family, and support each other to be stronger and closer to our individual goals.
 
-- [Ms. Yanying Xiong]
+- [Ms. Yanying Xiong] is my girl bestie, we have been roommates for 4 years back in [UIBE](http://english.uibe.edu.cn/). We talk about everything. She is now a Master of Art in [Columbia University](https://www.columbia.edu/).
+
 
 <!-- - [Mr. Xiaoyu Ding]
 
