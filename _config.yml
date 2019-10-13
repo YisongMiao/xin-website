@@ -1,0 +1,23 @@
+title: Yisong Miao 苗屹松
+url: "https://yisong.me"
+#baseurl: "/researcher"
+
+nav:
+#  - name: "About"
+#    link: "/researcher/"
+#  - name: "Resume"
+#    link: "resume.pdf"
+ - name: "UCMW Project"
+   link: "UCMW/index"
+
+#theme: jekyll-theme-cayman
+#remote_theme: ankitsultana/researcher@gem
+#theme: ankitsultana/researcher@gem
+
+markdown: kramdown
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
