@@ -2,11 +2,9 @@
 layout: default
 ---
 
-## Yisong Miao's Personal Website
+## Xin Wang's Personal Website
 
-<img class="profile-picture" src="photo.jpg">
-
-<!-- Welcome to my personal website! -->
+<img class="profile-picture" src="Xin-Thailand.jpeg">
 
 # About
 
@@ -39,7 +37,7 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 ---
 
-# Publications
+# Successful Investment Cases
 
 > If things are not failing, you are not innovating enough. -- Elon Musk, Tesla Motors
 
@@ -73,11 +71,9 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 <!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8"></script> -->
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8&co=1cb2f2&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
-
 </body>
 
 <center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
-
 
 
 

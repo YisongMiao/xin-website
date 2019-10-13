@@ -1,5 +1,5 @@
-title: Yisong Miao 苗屹松
-url: "https://yisong.me"
+title: Xin Wang 王鑫
+url: "https://wangxinalice.com"
 #baseurl: "/researcher"
 
 nav:
@@ -7,8 +7,8 @@ nav:
 #    link: "/researcher/"
 #  - name: "Resume"
 #    link: "resume.pdf"
- - name: "UCMW Project"
-   link: "UCMW/index"
+ # - name: "UCMW Project"
+ #   link: "UCMW/index"
 
 #theme: jekyll-theme-cayman
 #remote_theme: ankitsultana/researcher@gem
