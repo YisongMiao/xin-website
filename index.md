@@ -70,7 +70,8 @@ Note: Xin is still considering how much details she can tell here, please email 
 I was the speaker.<br>
 I co-authored the memo.
 
-- 2015, UIBE's Cup of 
+- 2015, UIBE's Cup of Future Business Negotiation(English), First Prize.<br>
+I led a team of 5 to prepare memo and oral negotiate for a uncompliant contract of Russian Steel.
 
 ---
 
