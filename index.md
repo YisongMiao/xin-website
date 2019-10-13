@@ -28,18 +28,14 @@ Please drop me a Business Proposal via [email](wangxin@cgpinvestment.com) if you
 
 > When times are bad is when the real entrepreneurs emerge. -- Robert Kiyosaki, author of Rich Dad Poor Dad
 
-## Webpage Classification
-- Webpage classification using URLs only.
+## AI Industry
+- Natural Language Processing.
+- Computer Vision
 
-## Conversational AI
+## AI-empowered Traditional Industry
+- Offline retails.
 
-- Conversational Recommendation.
-  Project webpage: [here](http://wing.comp.nus.edu.sg/?page_id=1039)  
-
-## Computational Discourse and Lexical Semantics
-
-- Contextual Lexical Relation.
-- Implicit Discourse Relation Recognition.  
+Note: Xin is still considering how much details she can tell here, please email her if there's a synergy between her investment interest and yours, thanks!
 
 ---
 
@@ -71,8 +67,11 @@ Please drop me a Business Proposal via [email](wangxin@cgpinvestment.com) if you
 
 > How you climb a mountain is more important than reaching the top. -- Yvon Chouinard, founder of Patagonia
 
-- 
+- 2015, Price International Moot Court, Top 8 in Asia-Pacific region (out of 100+)<br>
+I was the speaker.<br>
+I co-authored the memo.
 
+- 2015, UIBE's Cup of 
 
 ---
 
