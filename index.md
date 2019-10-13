@@ -12,19 +12,21 @@ Welcome! I'm investment associate at [Prosperity Investment (盛世投资)](http
 I'm affiliated to [Genesis Ark (盛世方舟)](http://www.ssfzchina.com/). <br>
 My office is at Beijing Yintai Centre. (Chaoyang, Jian Wai Da Jie, Jianguomen Outer St.) <br><br>
 
-My <b>long-term goal for my own development</b> is standing at the intersection of tax, finance, and law, deliver the world-class in-depth investment analysis and insights.
+My long-term goal <b>for my own development</b> is standing at the intersection of tax, finance, and law, deliver the world-class in-depth investment analysis and insights.
 
-My <b>long-term goal for the whole industry</b> is 
+My long-term goal <b>for the whole industry</b> is to accelerate the transition of traditional industries to AI-empowered, human-centered, and environment-sustainable ones.
 
-To achieve such two <b>long-term goals</b>, I 
+To achieve such two <b>long-term goals</b>, I not only conduct high-quality investments introduced below, but also keep doing investment research striving to find the characteristics of successful investments and their association to other real-world factors.
 
-is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts), and answer a basic question: how we human perceive beauty. To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest.
+Please drop me a Business Proposal via [email](wangxin@cgpinvestment.com) if you are interested to be funded by us, thanks!
+
+<span style="color:blue">Please drop me a Business Proposal via [email](wangxin@cgpinvestment.com) if you are interested to be funded by us, thanks!</span>
 
 ---
 
 # Investment Interest
 
-> When times are bad is when the real entrepreneurs emerge. -- - Robert Kiyosaki, author of Rich Dad Poor Dad
+> When times are bad is when the real entrepreneurs emerge. -- Robert Kiyosaki, author of Rich Dad Poor Dad
 
 ## Webpage Classification
 - Webpage classification using URLs only.
@@ -61,8 +63,7 @@ is to push the research boundary of interaction between AI and humanity (includi
 
 > I never let school interfere with my education. -- Mark Twain
 
-2013-2017, Bachelor of Law & Bachelor of English Literature.
-[University of International Business and Economics](https://www.uibe.edu.cn/).
+- 2013-2017, Bachelor of Law & Bachelor of English Literature at [University of International Business and Economics](https://www.uibe.edu.cn/).
 
 ---
 
@@ -70,8 +71,8 @@ is to push the research boundary of interaction between AI and humanity (includi
 
 > How you climb a mountain is more important than reaching the top. -- Yvon Chouinard, founder of Patagonia
 
-2013-2017, Bachelor of Law & Bachelor of English Literature. <br>
-[University of International Business and Economics](https://www.uibe.edu.cn/).
+- 
+
 
 ---
 
@@ -92,9 +93,9 @@ is to push the research boundary of interaction between AI and humanity (includi
 
 - [Ms. Yanying Xiong]
 
-- [Mr. Xiaoyu Ding]
+<!-- - [Mr. Xiaoyu Ding]
 
-- [Ms. Xiaoyu Liu]
+- [Ms. Xiaoyu Liu] -->
 
 - [Principles by Ray Dalio](https://www.principles.com/) This book has given me a lot inspiration in my junior ages.
 
