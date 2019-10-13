@@ -19,7 +19,7 @@ My long-term goal <b>for the whole industry</b> is to accelerate the transition 
 
 To achieve such two <b>long-term goals</b>, I not only make high-quality investments as introduced below, but also conduct novel investment research, striving to find the characteristics of successful investments and their association to other real-world factors.
 
-<span style="color:purple">Please drop me a Business Proposal via [email](wangxin@cgpinvestment.com) if you are interested to be funded by us, thanks!</span>
+<span style="color:red">Please drop me a Business Proposal via [email](wangxin@cgpinvestment.com) if you are interested to be funded by us, thanks!</span>
 
 ---
 
