@@ -16,11 +16,9 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 ---
 
-# Research Interest
+# Investment Interest
 
-> Let's push the boundary.
-
-<!-- > *"At the end of day, I don't care what other people do, I care how you understand you work."* -- What Prof Min and Wenqiang insist on our research style. -->
+> It’s not about ideas. It’s about making ideas happen. -- Scott Belsky, Behance
 
 ## Webpage Classification
 - Webpage classification using URLs only.
@@ -41,7 +39,7 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 > If things are not failing, you are not innovating enough. -- Elon Musk, Tesla Motors
 
-- We have One paper accepted by [WSDM 2020](http://wsdm-conference.org/2020/) on Conversational Recommendation! Acceptance rate is 15%, it is my first published work!
+- Coming soon...
 
 ---
 
