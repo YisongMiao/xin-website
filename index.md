@@ -48,7 +48,7 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 > I never let school interfere with my education. -- Mark Twain
 
 2013-2017, Bachelor of Law & Bachelor of English Literature. <br>
-University of International Business and Economics](https://www.uibe.edu.cn/).
+[University of International Business and Economics](https://www.uibe.edu.cn/).
 
 ---
 
