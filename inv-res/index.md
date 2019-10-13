@@ -1,1 +1,3 @@
 # Xin's investment research
+
+Coming soon...
