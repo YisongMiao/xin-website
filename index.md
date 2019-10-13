@@ -54,17 +54,19 @@ University of International Business and Economics](https://www.uibe.edu.cn/).
 
 # Highlights in college
 
-> I never let school interfere with my education. -- Mark Twain
+> How you climb a mountain is more important than reaching the top. -- Yvon Chouinard, founder of Patagonia
 
 2013-2017, Bachelor of Law & Bachelor of English Literature. <br>
-University of International Business and Economics](https://www.uibe.edu.cn/).
+[University of International Business and Economics](https://www.uibe.edu.cn/).
 
 ---
 
 # Professional Qualifications
 
+> It's man makes the clothes, not the clothes makes the man. -- Anonymous
+
 - 2018, Fund Qualification (基金从业人员资格考试)
-- CET8 (大学英语八级)
+- CET8 (College English Test - 8 Level) (大学英语八级)
 
 ---
 
