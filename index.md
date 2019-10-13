@@ -50,15 +50,24 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 > I never let school interfere with my education. -- Mark Twain
 
 2013-2017, Bachelor of Law & Bachelor of English Literature. <br>
-**Founding Class** of undergrad program of [University of International Business and Economics](https://www.uibe.edu.cn/).
+University of International Business and Economics](https://www.uibe.edu.cn/).
+
+---
+
+# Highlights in college
+
+> I never let school interfere with my education. -- Mark Twain
+
+2013-2017, Bachelor of Law & Bachelor of English Literature. <br>
+University of International Business and Economics](https://www.uibe.edu.cn/).
 
 ---
 
 # Professional Qualifications
 
+- 2018, Fund Qualification (基金从业人员资格考试)
+- CET8 (大学英语八级)
 
-2018, Bachelor of Law & Bachelor of English Literature. <br>
-**Founding Class** of undergrad program of [University of International Business and Economics](https://www.uibe.edu.cn/).
 ---
 
 # URL Link to my friends
@@ -75,9 +84,7 @@ My <b>long-term goal</b> is to push the research boundary of interaction between
 
 
 <body>
-<!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8" width="20" height="20"></script> -->
-<!-- <script type="text/javascript" id="clstr_globe" src="//cdn.clustrmaps.com/globe.js?d=edk2D6NRWsf3yF00Cbk3Ts8MR2oVgXMDSn-oFxUPJ_8"></script> -->
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=gfr3bhlw6QJainwiT9vqi6jdzrDJsN5yWdzz5R8LWyo&co=52bfed"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=gfr3bhlw6QJainwiT9vqi6jdzrDJsN5yWdzz5R8LWyo&co=52bfed"></script>
 </body>
 
 <center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
