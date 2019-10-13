@@ -10,9 +10,13 @@ layout: default
 
 Welcome! I'm investment associate at [Prosperity Investment (盛世投资)](http://www.cgpinvestment.com). <br>
 I'm affiliated to [Genesis Ark (盛世方舟)](http://www.ssfzchina.com/). <br>
-My office is at Beijing Yintai Centre, Beijing, Chaoyang, Jian Wai Da Jie, Jianguomen Outer St. <br><br>
+My office is at Beijing Yintai Centre. (Chaoyang, Jian Wai Da Jie, Jianguomen Outer St.) <br><br>
 
-My <b>long-term goal for my own development</b> is standing at the intersection of tax, finance, and law, deliver the world-class investment analysis and insights.
+My <b>long-term goal for my own development</b> is standing at the intersection of tax, finance, and law, deliver the world-class in-depth investment analysis and insights.
+
+My <b>long-term goal for the whole industry</b> is 
+
+To achieve such two <b>long-term goals</b>, I 
 
 is to push the research boundary of interaction between AI and humanity (including history, literature, music and other forms of arts), and answer a basic question: how we human perceive beauty. To achieve this <b>long-term goal</b>, I not only conduct novel research as introduced in the next section, but also initiate [UCMW project](UCMW/index) purely out of my personal interest.
 
@@ -40,6 +44,14 @@ is to push the research boundary of interaction between AI and humanity (includi
 # Successful Investment Cases
 
 > It’s not about ideas. It’s about making ideas happen. -- Scott Belsky, Behance
+
+- Coming soon...
+
+---
+
+# My Blog Posts for Investment Research
+
+> All modles are wrong, but some are useful. -- George Box, Computer Scientist
 
 - Coming soon...
 
@@ -83,6 +95,8 @@ is to push the research boundary of interaction between AI and humanity (includi
 - [Mr. Xiaoyu Ding]
 
 - [Ms. Xiaoyu Liu]
+
+- [Principles by Ray Dalio](https://www.principles.com/) This book has given me a lot inspiration in my junior ages.
 
 
 <body>
