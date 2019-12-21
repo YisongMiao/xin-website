@@ -102,9 +102,8 @@ Note: Xin is still considering how much details she can tell here, please email 
 > *When Voldemort is after you, you'd better be with your friends*. -- What Yisong learns from Harry Potter
 
 - [Mr. Yisong Miao](https://yisong.me) is not only my boyfriend, but also my best friend. He is now a master student with [National University of Singapore](http://www.nus.edu.sg). His research interest falls at recommender systems and natural language processing. He currently has two ongoing research projects, one is conversational recommendation, another is computational lexical and discourse semantics. We are in love since August 2015, the goal of our relationship is to create a loving family, and support each other to be stronger and closer to our individual goals.
-
 - [Ms. Yanying Xiong] is my girl bestie, we have been roommates for 4 years back in [UIBE](http://english.uibe.edu.cn/). We talk about everything. She is now a Master of Art in [Columbia University](https://www.columbia.edu/).
-
+- [Ms. Susan Su](https://www.linkedin.com/in/sushancolumbia/) is also my girl bestie, we have been roommates for 4 years back in [UIBE](http://english.uibe.edu.cn/). We talk about everything. She is obtained her MS. in Applied Analytics from [Columbia University](https://www.columbia.edu/) , and now works as consultant analyst in World Wide Technology.
 
 <!-- - [Mr. Xiaoyu Ding]
 
@@ -118,6 +117,5 @@ Note: Xin is still considering how much details she can tell here, please email 
 </body>
 
 <center><i>------ Stay Hungry, Stay Foolish ------</i><br><br><br></center>
-
 
 
